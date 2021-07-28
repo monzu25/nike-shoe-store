@@ -1,0 +1,29 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.bg-header{
+    background-color: #FFF9F4;
+    margin: 0;
+}
+
+
+
+
+.btn-buy-now{
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    border-radius: 5px;
+    border: none;
+   color: white;
+   font-weight: bold;
+   padding: 5px 10px;
+
+}
+
+
+.price-tag{
+    color: #FA804C;
+}
+
+.border-round{
+    border-radius: 20px;
+}
